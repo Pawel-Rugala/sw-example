@@ -1,0 +1,5 @@
+{
+    "extends": "@repo/configs/ts.base.json",
+    "include": ["src/**/*.ts", "test/**/*"],
+    "exclude": ["src/esbuild", "node_modules"]
+}

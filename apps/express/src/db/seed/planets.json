@@ -1,0 +1,1608 @@
+[
+  {
+    "name": "Alderaan",
+    "rotation_period": "24",
+    "orbital_period": "364",
+    "diameter": "12500",
+    "climate": "temperate",
+    "gravity": "1 standard",
+    "terrain": "grasslands, mountains",
+    "surface_water": "40",
+    "population": "2000000000",
+    "residents": [
+      {
+        "key": "5",
+        "name": "Leia Organa"
+      },
+      {
+        "key": "68",
+        "name": "Bail Prestor Organa"
+      },
+      {
+        "key": "81",
+        "name": "Raymus Antilles"
+      }
+    ],
+    "films": [
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      },
+      {
+        "key": "1",
+        "title": "A New Hope",
+        "episode_id": 4
+      }
+    ],
+    "created": "2014-12-10T11:35:48.479000Z",
+    "edited": "2014-12-20T20:58:18.420000Z",
+    "desc": [
+      "Alderaan is a fictional planet featured in the Star Wars space opera franchise. It is blue-green in appearance and is depicted as a terrestrial planet with humanoid inhabitants. It is the home of Princess Leia, one of the lead characters in the film series. In the original 1977 film, Star Wars, Alderaan is blown up by the Death Star, a giant space station capable of destroying entire planets.[2]"
+    ],
+    "key": "2"
+  },
+  {
+    "name": "Yavin IV",
+    "rotation_period": "24",
+    "orbital_period": "4818",
+    "diameter": "10200",
+    "climate": "temperate, tropical",
+    "gravity": "1 standard",
+    "terrain": "jungle, rainforests",
+    "surface_water": "8",
+    "population": "1000",
+    "residents": [],
+    "films": [
+      {
+        "key": "1",
+        "title": "A New Hope",
+        "episode_id": 4
+      }
+    ],
+    "created": "2014-12-10T11:37:19.144000Z",
+    "edited": "2014-12-20T20:58:18.421000Z",
+    "desc": [
+      "Yavin (also known as Yavin Prime) is a fictional planet in the Star Wars universe. It first appeared in the 1977 film Star Wars and is depicted as a large red gas giant with an extensive satellite system of moons. Within the Star Wars narrative, Yavin is noted as the hidden military base of the Rebel Alliance located on its fourth moon, known as Yavin IV.",
+      "The climactic space battle at the end of the film, in which the Rebel Alliance destroys the Death Star, takes place in orbit around the planet Yavin. In Star Wars fandom and the Star Wars expanded universe, this event is especially significant as it is used to mark an epoch in the fictional Star Wars universe. Events in Star Wars stories are typically dated in terms of years BBY (Before the Battle of Yavin) or ABY (After the Battle of Yavin).[1][2]"
+    ],
+    "key": "3"
+  },
+  {
+    "name": "Hoth",
+    "rotation_period": "23",
+    "orbital_period": "549",
+    "diameter": "7200",
+    "climate": "frozen",
+    "gravity": "1.1 standard",
+    "terrain": "tundra, ice caves, mountain ranges",
+    "surface_water": "100",
+    "population": "unknown",
+    "residents": [],
+    "films": [
+      {
+        "key": "2",
+        "title": "The Empire Strikes Back",
+        "episode_id": 5
+      }
+    ],
+    "created": "2014-12-10T11:39:13.934000Z",
+    "edited": "2014-12-20T20:58:18.423000Z",
+    "desc": [
+      "Hoth is an ice planet in the Star Wars fictional universe. It first appeared in the 1980 film The Empire Strikes Back and has also been a setting in Star Wars books and video games."
+    ],
+    "key": "4"
+  },
+  {
+    "name": "Dagobah",
+    "rotation_period": "23",
+    "orbital_period": "341",
+    "diameter": "8900",
+    "climate": "murky",
+    "gravity": "N/A",
+    "terrain": "swamp, jungles",
+    "surface_water": "8",
+    "population": "unknown",
+    "residents": [],
+    "films": [
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      },
+      {
+        "key": "3",
+        "title": "Return of the Jedi",
+        "episode_id": 6
+      },
+      {
+        "key": "2",
+        "title": "The Empire Strikes Back",
+        "episode_id": 5
+      }
+    ],
+    "created": "2014-12-10T11:42:22.590000Z",
+    "edited": "2014-12-20T20:58:18.425000Z",
+    "desc": [
+      "Dagobah is a star system in the Star Wars films The Empire Strikes Back and Return of the Jedi. It also appears in a deleted scene from Revenge of the Sith. Yoda went into exile on Dagobah after a lightsaber battle with Darth Sidious.",
+      "The planet shown in Dagobah, in the Sluis sector, is a world of murky swamps, steaming bayous, and petrified forests, resembling Earth during the Carboniferous Period."
+    ],
+    "key": "5"
+  },
+  {
+    "name": "Bespin",
+    "rotation_period": "12",
+    "orbital_period": "5110",
+    "diameter": "118000",
+    "climate": "temperate",
+    "gravity": "1.5 (surface), 1 standard (Cloud City)",
+    "terrain": "gas giant",
+    "surface_water": "0",
+    "population": "6000000",
+    "residents": [
+      {
+        "key": "26",
+        "name": "Lobot"
+      }
+    ],
+    "films": [
+      {
+        "key": "2",
+        "title": "The Empire Strikes Back",
+        "episode_id": 5
+      }
+    ],
+    "created": "2014-12-10T11:43:55.240000Z",
+    "edited": "2014-12-20T20:58:18.427000Z",
+    "desc": [
+      "Bespin is a fictional planet, a gas giant in Star Wars films and books. The planet was first seen in the 1980 feature film The Empire Strikes Back. Since its introduction, Bespin has gained more specific characteristics in the Star Wars expanded universe.",
+      "In The Empire Strikes Back, Bespin's floating city Cloud City hovers suspended by an anti-gravity pod."
+    ],
+    "key": "6"
+  },
+  {
+    "name": "Endor",
+    "rotation_period": "18",
+    "orbital_period": "402",
+    "diameter": "4900",
+    "climate": "temperate",
+    "gravity": "0.85 standard",
+    "terrain": "forests, mountains, lakes",
+    "surface_water": "8",
+    "population": "30000000",
+    "residents": [
+      {
+        "key": "30",
+        "name": "Wicket Systri Warrick"
+      }
+    ],
+    "films": [
+      {
+        "key": "3",
+        "title": "Return of the Jedi",
+        "episode_id": 6
+      }
+    ],
+    "created": "2014-12-10T11:50:29.349000Z",
+    "edited": "2014-12-20T20:58:18.429000Z",
+    "desc": [
+      "Endor is a planet in the Star Wars universe best known for its moon, known as the sanctuary moon, a forested world (moon) covered by giant trees."
+    ],
+    "key": "7"
+  },
+  {
+    "name": "Naboo",
+    "rotation_period": "26",
+    "orbital_period": "312",
+    "diameter": "12120",
+    "climate": "temperate",
+    "gravity": "1 standard",
+    "terrain": "grassy hills, swamps, forests, mountains",
+    "surface_water": "12",
+    "population": "4500000000",
+    "residents": [
+      {
+        "key": "3",
+        "name": "R2-D2"
+      },
+      {
+        "key": "21",
+        "name": "Palpatine"
+      },
+      {
+        "key": "36",
+        "name": "Jar Jar Binks"
+      },
+      {
+        "key": "37",
+        "name": "Roos Tarpals"
+      },
+      {
+        "key": "38",
+        "name": "Rugor Nass"
+      },
+      {
+        "key": "39",
+        "name": "Ric Olié"
+      },
+      {
+        "key": "42",
+        "name": "Quarsh Panaka"
+      },
+      {
+        "key": "60",
+        "name": "Gregar Typho"
+      },
+      {
+        "key": "61",
+        "name": "Cordé"
+      },
+      {
+        "key": "66",
+        "name": "Dormé"
+      },
+      {
+        "key": "35",
+        "name": "Padmé Amidala"
+      }
+    ],
+    "films": [
+      {
+        "key": "5",
+        "title": "Attack of the Clones",
+        "episode_id": 2
+      },
+      {
+        "key": "4",
+        "title": "The Phantom Menace",
+        "episode_id": 1
+      },
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      },
+      {
+        "key": "3",
+        "title": "Return of the Jedi",
+        "episode_id": 6
+      }
+    ],
+    "created": "2014-12-10T11:52:31.066000Z",
+    "edited": "2014-12-20T20:58:18.430000Z",
+    "desc": [
+      "Naboo is a planet in the fictional Star Wars universe with a mostly green terrain and which is the homeworld of two societies: the Gungans who dwell in underwater cities and the humans who live in colonies on the surface. Humans of Naboo have an electoral monarchy and maintain a peaceful culture that defends education, the arts, environmental protection and scientific achievements. The main capital of Naboo is Theed.",
+      "Located in the Chommell sector, Naboo is the home planet of Padmé Amidala and Jar Jar Binks, as well as Senator (later Supreme Chancellor and then Emperor) Palpatine. In Star Wars: Episode I – The Phantom Menace, it was the site of a blockade by the Trade Federation and the Battle of Naboo between the Federation and the native inhabitants. Naboo is seen in four films in the Star Wars series, having a prominent role in the first two prequels and glimpsed briefly in Revenge of the Sith and the 2004 DVD release of Return of the Jedi.",
+      "Theed's architecture, while referencing Ancient Rome and other classical traditions, was heavily inspired by the Frank Lloyd Wright-designed Marin County Civic Center in California. (Skywalker Ranch and Industrial Light & Magic are both based in Marin County.)"
+    ],
+    "key": "8"
+  },
+  {
+    "name": "Coruscant",
+    "rotation_period": "24",
+    "orbital_period": "368",
+    "diameter": "12240",
+    "climate": "temperate",
+    "gravity": "1 standard",
+    "terrain": "cityscape, mountains",
+    "surface_water": "unknown",
+    "population": "1000000000000",
+    "residents": [
+      {
+        "key": "34",
+        "name": "Finis Valorum"
+      },
+      {
+        "key": "55",
+        "name": "Adi Gallia"
+      },
+      {
+        "key": "74",
+        "name": "Jocasta Nu"
+      }
+    ],
+    "films": [
+      {
+        "key": "5",
+        "title": "Attack of the Clones",
+        "episode_id": 2
+      },
+      {
+        "key": "4",
+        "title": "The Phantom Menace",
+        "episode_id": 1
+      },
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      },
+      {
+        "key": "3",
+        "title": "Return of the Jedi",
+        "episode_id": 6
+      }
+    ],
+    "created": "2014-12-10T11:54:13.921000Z",
+    "edited": "2014-12-20T20:58:18.432000Z",
+    "desc": [
+      "Coruscant /ˈkɒrəsɑːnt/[2] is a planet in the fictional Star Wars universe. It first appeared onscreen in the 1997 Special Edition of Return of the Jedi, but was first mentioned in Timothy Zahn's 1991 novel Heir to the Empire. A city occupying an entire planet, it was renamed Imperial Center during the reign of the Galactic Empire (as depicted in the original films) and Yuuzhan'tar during the Yuuzhan Vong invasion (as depicted in the New Jedi Order novel series). The demonym and adjective form of the planet name is Coruscanti.",
+      "Coruscant is, at various times, the capital of the Old Republic, the Galactic Empire, the New Republic, the Yuuzhan Vong Empire and the Galactic Alliance. Not only is Coruscant central to all these governing bodies, it is the navigational center of the galaxy, given that its hyperspace coordinates are (0,0,0). Due to its location and large population, roughly 2 trillion sentients, the galaxy's main trade routes — Perlemian Trade Route, Hydian Way, Corellian Run and Corellian Trade Spine — go through Coruscant, making it the richest and most influential world in the Star Wars galaxy. Coruscant is the sixth planet out of 11 planets in the Coruscant solar system, and has four moons; Centax-1, Centax-2, Centax-3, and Hesperidium.",
+      "The Galactic Standard Calendar was the standard measurement of time in the Star Wars galaxy. It centered on the Coruscant tropical year. The Coruscant solar cycle was 368 days long; with a day consisting of 360 NET degrees (or 24 standard hours).[3] Numerous epochs were used to determine calendar eras. The most recent of these calendar eras used the Battle of Yavin (i.e. the destruction of the first Death Star) as its epoch, or \"year zero\": BBY (Before the Battle of Yavin), and ABY (After the Battle of Yavin).[4] The earliest date in the Star Wars expanded universe as a whole is 13,000,000,000 BBY, which serves as the year the universe was created."
+    ],
+    "key": "9"
+  },
+  {
+    "name": "Kamino",
+    "rotation_period": "27",
+    "orbital_period": "463",
+    "diameter": "19720",
+    "climate": "temperate",
+    "gravity": "1 standard",
+    "terrain": "ocean",
+    "surface_water": "100",
+    "population": "1000000000",
+    "residents": [
+      {
+        "key": "22",
+        "name": "Boba Fett"
+      },
+      {
+        "key": "72",
+        "name": "Lama Su"
+      },
+      {
+        "key": "73",
+        "name": "Taun We"
+      }
+    ],
+    "films": [
+      {
+        "key": "5",
+        "title": "Attack of the Clones",
+        "episode_id": 2
+      }
+    ],
+    "created": "2014-12-10T12:45:06.577000Z",
+    "edited": "2014-12-20T20:58:18.434000Z",
+    "key": "10"
+  },
+  {
+    "name": "Geonosis",
+    "rotation_period": "30",
+    "orbital_period": "256",
+    "diameter": "11370",
+    "climate": "temperate, arid",
+    "gravity": "0.9 standard",
+    "terrain": "rock, desert, mountain, barren",
+    "surface_water": "5",
+    "population": "100000000000",
+    "residents": [
+      {
+        "key": "63",
+        "name": "Poggle the Lesser"
+      }
+    ],
+    "films": [
+      {
+        "key": "5",
+        "title": "Attack of the Clones",
+        "episode_id": 2
+      }
+    ],
+    "created": "2014-12-10T12:47:22.350000Z",
+    "edited": "2014-12-20T20:58:18.437000Z",
+    "key": "11"
+  },
+  {
+    "name": "Utapau",
+    "rotation_period": "27",
+    "orbital_period": "351",
+    "diameter": "12900",
+    "climate": "temperate, arid, windy",
+    "gravity": "1 standard",
+    "terrain": "scrublands, savanna, canyons, sinkholes",
+    "surface_water": "0.9",
+    "population": "95000000",
+    "residents": [
+      {
+        "key": "83",
+        "name": "Tion Medon"
+      }
+    ],
+    "films": [
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      }
+    ],
+    "created": "2014-12-10T12:49:01.491000Z",
+    "edited": "2014-12-20T20:58:18.439000Z",
+    "key": "12"
+  },
+  {
+    "name": "Mustafar",
+    "rotation_period": "36",
+    "orbital_period": "412",
+    "diameter": "4200",
+    "climate": "hot",
+    "gravity": "1 standard",
+    "terrain": "volcanoes, lava rivers, mountains, caves",
+    "surface_water": "0",
+    "population": "20000",
+    "residents": [],
+    "films": [
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      }
+    ],
+    "created": "2014-12-10T12:50:16.526000Z",
+    "edited": "2014-12-20T20:58:18.440000Z",
+    "key": "13"
+  },
+  {
+    "name": "Kashyyyk",
+    "rotation_period": "26",
+    "orbital_period": "381",
+    "diameter": "12765",
+    "climate": "tropical",
+    "gravity": "1 standard",
+    "terrain": "jungle, forests, lakes, rivers",
+    "surface_water": "60",
+    "population": "45000000",
+    "residents": [
+      {
+        "key": "13",
+        "name": "Chewbacca"
+      },
+      {
+        "key": "80",
+        "name": "Tarfful"
+      }
+    ],
+    "films": [
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      }
+    ],
+    "created": "2014-12-10T13:32:00.124000Z",
+    "edited": "2014-12-20T20:58:18.442000Z",
+    "desc": [
+      "Kashyyyk (/kəˈʃiːk/ ka-SHEEK, /ˈkæʃɪk/ KASH-ik or /ˌkæˈʃiː.aɪk/ ka-SHEE-ike), also known as Wookiee Planet C, is a fictional planet in the Star Wars universe. It is the tropical, forested home world of the Wookiees. According to interviews given by Star Wars creator George Lucas, the home of the Wookiees was originally intended to be the forest moon of Endor which plays a key role in the plot of the sixth film of the series, Return of the Jedi.[1] However, Lucas decided that since the Wookiee Chewbacca was clearly proficient with advanced technology (i.e. he was pilot and mechanic of the spaceship the Millennium Falcon and he repaired the damaged droid C-3PO), it would be confusing to show the Wookiees with a primitive, \"stone age\" culture on Endor. The Ewoks were created instead to populate the moon and to help fight the Imperial garrison stationed there.[2] Kashyyyk made appearances in the Star Wars Holiday Special and Star Wars: Episode III – Revenge of the Sith."
+    ],
+    "key": "14"
+  },
+  {
+    "name": "Polis Massa",
+    "rotation_period": "24",
+    "orbital_period": "590",
+    "diameter": "0",
+    "climate": "artificial temperate ",
+    "gravity": "0.56 standard",
+    "terrain": "airless asteroid",
+    "surface_water": "0",
+    "population": "1000000",
+    "residents": [],
+    "films": [
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      }
+    ],
+    "created": "2014-12-10T13:33:46.405000Z",
+    "edited": "2014-12-20T20:58:18.444000Z",
+    "key": "15"
+  },
+  {
+    "name": "Mygeeto",
+    "rotation_period": "12",
+    "orbital_period": "167",
+    "diameter": "10088",
+    "climate": "frigid",
+    "gravity": "1 standard",
+    "terrain": "glaciers, mountains, ice canyons",
+    "surface_water": "unknown",
+    "population": "19000000",
+    "residents": [],
+    "films": [
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      }
+    ],
+    "created": "2014-12-10T13:43:39.139000Z",
+    "edited": "2014-12-20T20:58:18.446000Z",
+    "key": "16"
+  },
+  {
+    "name": "Felucia",
+    "rotation_period": "34",
+    "orbital_period": "231",
+    "diameter": "9100",
+    "climate": "hot, humid",
+    "gravity": "0.75 standard",
+    "terrain": "fungus forests",
+    "surface_water": "unknown",
+    "population": "8500000",
+    "residents": [],
+    "films": [
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      }
+    ],
+    "created": "2014-12-10T13:44:50.397000Z",
+    "edited": "2014-12-20T20:58:18.447000Z",
+    "key": "17"
+  },
+  {
+    "name": "Cato Neimoidia",
+    "rotation_period": "25",
+    "orbital_period": "278",
+    "diameter": "0",
+    "climate": "temperate, moist",
+    "gravity": "1 standard",
+    "terrain": "mountains, fields, forests, rock arches",
+    "surface_water": "unknown",
+    "population": "10000000",
+    "residents": [
+      {
+        "key": "33",
+        "name": "Nute Gunray"
+      }
+    ],
+    "films": [
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      }
+    ],
+    "created": "2014-12-10T13:46:28.704000Z",
+    "edited": "2014-12-20T20:58:18.449000Z",
+    "key": "18"
+  },
+  {
+    "name": "Saleucami",
+    "rotation_period": "26",
+    "orbital_period": "392",
+    "diameter": "14920",
+    "climate": "hot",
+    "gravity": "unknown",
+    "terrain": "caves, desert, mountains, volcanoes",
+    "surface_water": "unknown",
+    "population": "1400000000",
+    "residents": [],
+    "films": [
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      }
+    ],
+    "created": "2014-12-10T13:47:46.874000Z",
+    "edited": "2014-12-20T20:58:18.450000Z",
+    "key": "19"
+  },
+  {
+    "name": "Stewjon",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "0",
+    "climate": "temperate",
+    "gravity": "1 standard",
+    "terrain": "grass",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      {
+        "key": "10",
+        "name": "Obi-Wan Kenobi"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-10T16:16:26.566000Z",
+    "edited": "2014-12-20T20:58:18.452000Z",
+    "key": "20"
+  },
+  {
+    "name": "Eriadu",
+    "rotation_period": "24",
+    "orbital_period": "360",
+    "diameter": "13490",
+    "climate": "polluted",
+    "gravity": "1 standard",
+    "terrain": "cityscape",
+    "surface_water": "unknown",
+    "population": "22000000000",
+    "residents": [
+      {
+        "key": "12",
+        "name": "Wilhuff Tarkin"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-10T16:26:54.384000Z",
+    "edited": "2014-12-20T20:58:18.454000Z",
+    "key": "21"
+  },
+  {
+    "name": "Corellia",
+    "rotation_period": "25",
+    "orbital_period": "329",
+    "diameter": "11000",
+    "climate": "temperate",
+    "gravity": "1 standard",
+    "terrain": "plains, urban, hills, forests",
+    "surface_water": "70",
+    "population": "3000000000",
+    "residents": [
+      {
+        "key": "14",
+        "name": "Han Solo"
+      },
+      {
+        "key": "18",
+        "name": "Wedge Antilles"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-10T16:49:12.453000Z",
+    "edited": "2014-12-20T20:58:18.456000Z",
+    "key": "22"
+  },
+  {
+    "name": "Rodia",
+    "rotation_period": "29",
+    "orbital_period": "305",
+    "diameter": "7549",
+    "climate": "hot",
+    "gravity": "1 standard",
+    "terrain": "jungles, oceans, urban, swamps",
+    "surface_water": "60",
+    "population": "1300000000",
+    "residents": [
+      {
+        "key": "15",
+        "name": "Greedo"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-10T17:03:28.110000Z",
+    "edited": "2014-12-20T20:58:18.458000Z",
+    "key": "23"
+  },
+  {
+    "name": "Nal Hutta",
+    "rotation_period": "87",
+    "orbital_period": "413",
+    "diameter": "12150",
+    "climate": "temperate",
+    "gravity": "1 standard",
+    "terrain": "urban, oceans, swamps, bogs",
+    "surface_water": "unknown",
+    "population": "7000000000",
+    "residents": [
+      {
+        "key": "16",
+        "name": "Jabba Desilijic Tiure"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-10T17:11:29.452000Z",
+    "edited": "2014-12-20T20:58:18.460000Z",
+    "key": "24"
+  },
+  {
+    "name": "Dantooine",
+    "rotation_period": "25",
+    "orbital_period": "378",
+    "diameter": "9830",
+    "climate": "temperate",
+    "gravity": "1 standard",
+    "terrain": "oceans, savannas, mountains, grasslands",
+    "surface_water": "unknown",
+    "population": "1000",
+    "residents": [],
+    "films": [],
+    "created": "2014-12-10T17:23:29.896000Z",
+    "edited": "2014-12-20T20:58:18.461000Z",
+    "key": "25"
+  },
+  {
+    "name": "Bestine IV",
+    "rotation_period": "26",
+    "orbital_period": "680",
+    "diameter": "6400",
+    "climate": "temperate",
+    "gravity": "unknown",
+    "terrain": "rocky islands, oceans",
+    "surface_water": "98",
+    "population": "62000000",
+    "residents": [
+      {
+        "key": "19",
+        "name": "Jek Tono Porkins"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-12T11:16:55.078000Z",
+    "edited": "2014-12-20T20:58:18.463000Z",
+    "key": "26"
+  },
+  {
+    "name": "Ord Mantell",
+    "rotation_period": "26",
+    "orbital_period": "334",
+    "diameter": "14050",
+    "climate": "temperate",
+    "gravity": "1 standard",
+    "terrain": "plains, seas, mesas",
+    "surface_water": "10",
+    "population": "4000000000",
+    "residents": [],
+    "films": [
+      {
+        "key": "2",
+        "title": "The Empire Strikes Back",
+        "episode_id": 5
+      }
+    ],
+    "created": "2014-12-15T12:23:41.661000Z",
+    "edited": "2014-12-20T20:58:18.464000Z",
+    "key": "27"
+  },
+  {
+    "name": "unknown",
+    "rotation_period": "0",
+    "orbital_period": "0",
+    "diameter": "0",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "unknown",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      {
+        "key": "20",
+        "name": "Yoda"
+      },
+      {
+        "key": "23",
+        "name": "IG-88"
+      },
+      {
+        "key": "29",
+        "name": "Arvel Crynyd"
+      },
+      {
+        "key": "32",
+        "name": "Qui-Gon Jinn"
+      },
+      {
+        "key": "75",
+        "name": "R4-P17"
+      },
+      {
+        "key": "84",
+        "name": "Finn"
+      },
+      {
+        "key": "85",
+        "name": "Rey"
+      },
+      {
+        "key": "86",
+        "name": "Poe Dameron"
+      },
+      {
+        "key": "87",
+        "name": "BB8"
+      },
+      {
+        "key": "88",
+        "name": "Captain Phasma"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-15T12:25:59.569000Z",
+    "edited": "2014-12-20T20:58:18.466000Z",
+    "key": "28"
+  },
+  {
+    "name": "Trandosha",
+    "rotation_period": "25",
+    "orbital_period": "371",
+    "diameter": "0",
+    "climate": "arid",
+    "gravity": "0.62 standard",
+    "terrain": "mountains, seas, grasslands, deserts",
+    "surface_water": "unknown",
+    "population": "42000000",
+    "residents": [
+      {
+        "key": "24",
+        "name": "Bossk"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-15T12:53:47.695000Z",
+    "edited": "2014-12-20T20:58:18.468000Z",
+    "key": "29"
+  },
+  {
+    "name": "Socorro",
+    "rotation_period": "20",
+    "orbital_period": "326",
+    "diameter": "0",
+    "climate": "arid",
+    "gravity": "1 standard",
+    "terrain": "deserts, mountains",
+    "surface_water": "unknown",
+    "population": "300000000",
+    "residents": [
+      {
+        "key": "25",
+        "name": "Lando Calrissian"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-15T12:56:31.121000Z",
+    "edited": "2014-12-20T20:58:18.469000Z",
+    "key": "30"
+  },
+  {
+    "name": "Mon Cala",
+    "rotation_period": "21",
+    "orbital_period": "398",
+    "diameter": "11030",
+    "climate": "temperate",
+    "gravity": "1",
+    "terrain": "oceans, reefs, islands",
+    "surface_water": "100",
+    "population": "27000000000",
+    "residents": [
+      {
+        "key": "27",
+        "name": "Ackbar"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-18T11:07:01.792000Z",
+    "edited": "2014-12-20T20:58:18.471000Z",
+    "key": "31"
+  },
+  {
+    "name": "Chandrila",
+    "rotation_period": "20",
+    "orbital_period": "368",
+    "diameter": "13500",
+    "climate": "temperate",
+    "gravity": "1",
+    "terrain": "plains, forests",
+    "surface_water": "40",
+    "population": "1200000000",
+    "residents": [
+      {
+        "key": "28",
+        "name": "Mon Mothma"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-18T11:11:51.872000Z",
+    "edited": "2014-12-20T20:58:18.472000Z",
+    "key": "32"
+  },
+  {
+    "name": "Sullust",
+    "rotation_period": "20",
+    "orbital_period": "263",
+    "diameter": "12780",
+    "climate": "superheated",
+    "gravity": "1",
+    "terrain": "mountains, volcanoes, rocky deserts",
+    "surface_water": "5",
+    "population": "18500000000",
+    "residents": [
+      {
+        "key": "31",
+        "name": "Nien Nunb"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-18T11:25:40.243000Z",
+    "edited": "2014-12-20T20:58:18.474000Z",
+    "key": "33"
+  },
+  {
+    "name": "Toydaria",
+    "rotation_period": "21",
+    "orbital_period": "184",
+    "diameter": "7900",
+    "climate": "temperate",
+    "gravity": "1",
+    "terrain": "swamps, lakes",
+    "surface_water": "unknown",
+    "population": "11000000",
+    "residents": [
+      {
+        "key": "40",
+        "name": "Watto"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-19T17:47:54.403000Z",
+    "edited": "2014-12-20T20:58:18.476000Z",
+    "key": "34"
+  },
+  {
+    "name": "Malastare",
+    "rotation_period": "26",
+    "orbital_period": "201",
+    "diameter": "18880",
+    "climate": "arid, temperate, tropical",
+    "gravity": "1.56",
+    "terrain": "swamps, deserts, jungles, mountains",
+    "surface_water": "unknown",
+    "population": "2000000000",
+    "residents": [
+      {
+        "key": "41",
+        "name": "Sebulba"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-19T17:52:13.106000Z",
+    "edited": "2014-12-20T20:58:18.478000Z",
+    "key": "35"
+  },
+  {
+    "name": "Dathomir",
+    "rotation_period": "24",
+    "orbital_period": "491",
+    "diameter": "10480",
+    "climate": "temperate",
+    "gravity": "0.9",
+    "terrain": "forests, deserts, savannas",
+    "surface_water": "unknown",
+    "population": "5200",
+    "residents": [
+      {
+        "key": "44",
+        "name": "Darth Maul"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-19T18:00:40.142000Z",
+    "edited": "2014-12-20T20:58:18.480000Z",
+    "key": "36"
+  },
+  {
+    "name": "Ryloth",
+    "rotation_period": "30",
+    "orbital_period": "305",
+    "diameter": "10600",
+    "climate": "temperate, arid, subartic",
+    "gravity": "1",
+    "terrain": "mountains, valleys, deserts, tundra",
+    "surface_water": "5",
+    "population": "1500000000",
+    "residents": [
+      {
+        "key": "45",
+        "name": "Bib Fortuna"
+      },
+      {
+        "key": "46",
+        "name": "Ayla Secura"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-20T09:46:25.740000Z",
+    "edited": "2014-12-20T20:58:18.481000Z",
+    "key": "37"
+  },
+  {
+    "name": "Aleen Minor",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "unknown",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      {
+        "key": "47",
+        "name": "Ratts Tyerell"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-20T09:52:23.452000Z",
+    "edited": "2014-12-20T20:58:18.483000Z",
+    "key": "38"
+  },
+  {
+    "name": "Vulpter",
+    "rotation_period": "22",
+    "orbital_period": "391",
+    "diameter": "14900",
+    "climate": "temperate, artic",
+    "gravity": "1",
+    "terrain": "urban, barren",
+    "surface_water": "unknown",
+    "population": "421000000",
+    "residents": [
+      {
+        "key": "48",
+        "name": "Dud Bolt"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-20T09:56:58.874000Z",
+    "edited": "2014-12-20T20:58:18.485000Z",
+    "key": "39"
+  },
+  {
+    "name": "Troiken",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "desert, tundra, rainforests, mountains",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      {
+        "key": "49",
+        "name": "Gasgano"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-20T10:01:37.395000Z",
+    "edited": "2014-12-20T20:58:18.487000Z",
+    "key": "40"
+  },
+  {
+    "name": "Tund",
+    "rotation_period": "48",
+    "orbital_period": "1770",
+    "diameter": "12190",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "barren, ash",
+    "surface_water": "unknown",
+    "population": "0",
+    "residents": [
+      {
+        "key": "50",
+        "name": "Ben Quadinaros"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-20T10:07:29.578000Z",
+    "edited": "2014-12-20T20:58:18.489000Z",
+    "key": "41"
+  },
+  {
+    "name": "Haruun Kal",
+    "rotation_period": "25",
+    "orbital_period": "383",
+    "diameter": "10120",
+    "climate": "temperate",
+    "gravity": "0.98",
+    "terrain": "toxic cloudsea, plateaus, volcanoes",
+    "surface_water": "unknown",
+    "population": "705300",
+    "residents": [
+      {
+        "key": "51",
+        "name": "Mace Windu"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-20T10:12:28.980000Z",
+    "edited": "2014-12-20T20:58:18.491000Z",
+    "key": "42"
+  },
+  {
+    "name": "Cerea",
+    "rotation_period": "27",
+    "orbital_period": "386",
+    "diameter": "unknown",
+    "climate": "temperate",
+    "gravity": "1",
+    "terrain": "verdant",
+    "surface_water": "20",
+    "population": "450000000",
+    "residents": [
+      {
+        "key": "52",
+        "name": "Ki-Adi-Mundi"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-20T10:14:48.178000Z",
+    "edited": "2014-12-20T20:58:18.493000Z",
+    "key": "43"
+  },
+  {
+    "name": "Glee Anselm",
+    "rotation_period": "33",
+    "orbital_period": "206",
+    "diameter": "15600",
+    "climate": "tropical, temperate",
+    "gravity": "1",
+    "terrain": "lakes, islands, swamps, seas",
+    "surface_water": "80",
+    "population": "500000000",
+    "residents": [
+      {
+        "key": "53",
+        "name": "Kit Fisto"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-20T10:18:26.110000Z",
+    "edited": "2014-12-20T20:58:18.495000Z",
+    "key": "44"
+  },
+  {
+    "name": "Iridonia",
+    "rotation_period": "29",
+    "orbital_period": "413",
+    "diameter": "unknown",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "rocky canyons, acid pools",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      {
+        "key": "54",
+        "name": "Eeth Koth"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-20T10:26:05.788000Z",
+    "edited": "2014-12-20T20:58:18.497000Z",
+    "key": "45"
+  },
+  {
+    "name": "Tholoth",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "unknown",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [],
+    "films": [],
+    "created": "2014-12-20T10:28:31.117000Z",
+    "edited": "2014-12-20T20:58:18.498000Z",
+    "key": "46"
+  },
+  {
+    "name": "Iktotch",
+    "rotation_period": "22",
+    "orbital_period": "481",
+    "diameter": "unknown",
+    "climate": "arid, rocky, windy",
+    "gravity": "1",
+    "terrain": "rocky",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      {
+        "key": "56",
+        "name": "Saesee Tiin"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-20T10:31:32.413000Z",
+    "edited": "2014-12-20T20:58:18.500000Z",
+    "key": "47"
+  },
+  {
+    "name": "Quermia",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "unknown",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      {
+        "key": "57",
+        "name": "Yarael Poof"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-20T10:34:08.249000Z",
+    "edited": "2014-12-20T20:58:18.502000Z",
+    "key": "48"
+  },
+  {
+    "name": "Dorin",
+    "rotation_period": "22",
+    "orbital_period": "409",
+    "diameter": "13400",
+    "climate": "temperate",
+    "gravity": "1",
+    "terrain": "unknown",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      {
+        "key": "58",
+        "name": "Plo Koon"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-20T10:48:36.141000Z",
+    "edited": "2014-12-20T20:58:18.504000Z",
+    "key": "49"
+  },
+  {
+    "name": "Champala",
+    "rotation_period": "27",
+    "orbital_period": "318",
+    "diameter": "unknown",
+    "climate": "temperate",
+    "gravity": "1",
+    "terrain": "oceans, rainforests, plateaus",
+    "surface_water": "unknown",
+    "population": "3500000000",
+    "residents": [
+      {
+        "key": "59",
+        "name": "Mas Amedda"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-20T10:52:51.524000Z",
+    "edited": "2014-12-20T20:58:18.506000Z",
+    "key": "50"
+  },
+  {
+    "name": "Mirial",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "deserts",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      {
+        "key": "64",
+        "name": "Luminara Unduli"
+      },
+      {
+        "key": "65",
+        "name": "Barriss Offee"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-20T16:44:46.318000Z",
+    "edited": "2014-12-20T20:58:18.508000Z",
+    "key": "51"
+  },
+  {
+    "name": "Serenno",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "rainforests, rivers, mountains",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      {
+        "key": "67",
+        "name": "Dooku"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-20T16:52:13.357000Z",
+    "edited": "2014-12-20T20:58:18.510000Z",
+    "key": "52"
+  },
+  {
+    "name": "Concord Dawn",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "jungles, forests, deserts",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      {
+        "key": "69",
+        "name": "Jango Fett"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-20T16:54:39.909000Z",
+    "edited": "2014-12-20T20:58:18.512000Z",
+    "key": "53"
+  },
+  {
+    "name": "Zolan",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "unknown",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      {
+        "key": "70",
+        "name": "Zam Wesell"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-20T16:56:37.250000Z",
+    "edited": "2014-12-20T20:58:18.514000Z",
+    "key": "54"
+  },
+  {
+    "name": "Ojom",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": "frigid",
+    "gravity": "unknown",
+    "terrain": "oceans, glaciers",
+    "surface_water": "100",
+    "population": "500000000",
+    "residents": [
+      {
+        "key": "71",
+        "name": "Dexter Jettster"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-20T17:27:41.286000Z",
+    "edited": "2014-12-20T20:58:18.516000Z",
+    "key": "55"
+  },
+  {
+    "name": "Skako",
+    "rotation_period": "27",
+    "orbital_period": "384",
+    "diameter": "unknown",
+    "climate": "temperate",
+    "gravity": "1",
+    "terrain": "urban, vines",
+    "surface_water": "unknown",
+    "population": "500000000000",
+    "residents": [
+      {
+        "key": "76",
+        "name": "Wat Tambor"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-20T17:50:47.864000Z",
+    "edited": "2014-12-20T20:58:18.517000Z",
+    "key": "56"
+  },
+  {
+    "name": "Muunilinst",
+    "rotation_period": "28",
+    "orbital_period": "412",
+    "diameter": "13800",
+    "climate": "temperate",
+    "gravity": "1",
+    "terrain": "plains, forests, hills, mountains",
+    "surface_water": "25",
+    "population": "5000000000",
+    "residents": [
+      {
+        "key": "77",
+        "name": "San Hill"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-20T17:57:47.420000Z",
+    "edited": "2014-12-20T20:58:18.519000Z",
+    "key": "57"
+  },
+  {
+    "name": "Shili",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": "temperate",
+    "gravity": "1",
+    "terrain": "cities, savannahs, seas, plains",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      {
+        "key": "78",
+        "name": "Shaak Ti"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-20T18:43:14.049000Z",
+    "edited": "2014-12-20T20:58:18.521000Z",
+    "key": "58"
+  },
+  {
+    "name": "Kalee",
+    "rotation_period": "23",
+    "orbital_period": "378",
+    "diameter": "13850",
+    "climate": "arid, temperate, tropical",
+    "gravity": "1",
+    "terrain": "rainforests, cliffs, canyons, seas",
+    "surface_water": "unknown",
+    "population": "4000000000",
+    "residents": [
+      {
+        "key": "79",
+        "name": "Grievous"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-20T19:43:51.278000Z",
+    "edited": "2014-12-20T20:58:18.523000Z",
+    "key": "59"
+  },
+  {
+    "name": "Umbara",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "unknown",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      {
+        "key": "82",
+        "name": "Sly Moore"
+      }
+    ],
+    "films": [],
+    "created": "2014-12-20T20:18:36.256000Z",
+    "edited": "2014-12-20T20:58:18.525000Z",
+    "key": "60"
+  },
+  {
+    "name": "Tatooine",
+    "rotation_period": "23",
+    "orbital_period": "304",
+    "diameter": "10465",
+    "climate": "arid",
+    "gravity": "1 standard",
+    "terrain": "desert",
+    "surface_water": "1",
+    "population": "200000",
+    "residents": [
+      {
+        "key": "1",
+        "name": "Luke Skywalker"
+      },
+      {
+        "key": "2",
+        "name": "C-3PO"
+      },
+      {
+        "key": "4",
+        "name": "Darth Vader"
+      },
+      {
+        "key": "6",
+        "name": "Owen Lars"
+      },
+      {
+        "key": "7",
+        "name": "Beru Whitesun lars"
+      },
+      {
+        "key": "8",
+        "name": "R5-D4"
+      },
+      {
+        "key": "9",
+        "name": "Biggs Darklighter"
+      },
+      {
+        "key": "11",
+        "name": "Anakin Skywalker"
+      },
+      {
+        "key": "43",
+        "name": "Shmi Skywalker"
+      },
+      {
+        "key": "62",
+        "name": "Cliegg Lars"
+      }
+    ],
+    "films": [
+      {
+        "key": "5",
+        "title": "Attack of the Clones",
+        "episode_id": 2
+      },
+      {
+        "key": "4",
+        "title": "The Phantom Menace",
+        "episode_id": 1
+      },
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      },
+      {
+        "key": "3",
+        "title": "Return of the Jedi",
+        "episode_id": 6
+      },
+      {
+        "key": "1",
+        "title": "A New Hope",
+        "episode_id": 4
+      }
+    ],
+    "created": "2014-12-09T13:50:49.641000Z",
+    "edited": "2014-12-21T20:48:04.175778Z",
+    "desc": [
+      "Tatooine /ˌtætuːˈiːn/ is a fictional desert planet that appears in the Star Wars space opera franchise. It is beige-coloured and is depicted as a remote, desolate world orbiting a pair of binary stars, and inhabited by human settlers and a variety of other life forms. The planet was first seen in the original 1977 film Star Wars, and has to date featured in a total five Star Wars theatrical films.",
+      "It is noted as the homeworld of the protagonist of the Star Wars saga, Luke Skywalker, and also of his father, Anakin Skywalker. Shots of the binary sunset over the Tatooine desert are considered to be an iconic image of the film series.[1][2]"
+    ],
+    "key": "1"
+  },
+  {
+    "name": "Jakku",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "deserts",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [],
+    "films": [
+      {
+        "key": "7",
+        "title": "The Force Awakens",
+        "episode_id": 7
+      }
+    ],
+    "created": "2015-04-17T06:55:57.556495Z",
+    "edited": "2015-04-17T06:55:57.556551Z",
+    "desc": [
+      "Jakku is a fictional desert planet first featured in the 2015 Star Wars film The Force Awakens. Remote, lawless, and inhospitable, it is the homeworld of main character Rey, played by Daisy Ridley. The film focuses on two distinct localities, Tuanul Village and Niima Outpost, near a starship graveyard.",
+      "The planet is also depicted in the 2017 Chuck Wendig novel, Star Wars: Aftermath: Empire's End."
+    ],
+    "key": "61"
+  }
+]

@@ -1,0 +1,7 @@
+name: "starwars"
+services:
+  mongodb:
+    image: mongo:7.0.14-rc0-jammy
+    container_name: db-mongo
+    ports:
+      - "27017:27017"

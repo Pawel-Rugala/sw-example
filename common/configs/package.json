@@ -1,0 +1,19 @@
+{
+  "name": "@repo/configs",
+  "version": "1.0.0",
+  "description": "",
+  "files": [
+    "ts.base.json",
+    "eslint.base.mjs",
+    "prettier.base.mjs"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript-eslint": "^8.2.0"
+  }
+}

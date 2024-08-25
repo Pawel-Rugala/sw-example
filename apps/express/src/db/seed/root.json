@@ -1,0 +1,26 @@
+[
+  {
+    "name": "people",
+    "length": 27
+  },
+  {
+    "name": "planets",
+    "length": 28
+  },
+  {
+    "name": "films",
+    "length": 26
+  },
+  {
+    "name": "species",
+    "length": 28
+  },
+  {
+    "name": "vehicles",
+    "length": 29
+  },
+  {
+    "name": "starships",
+    "length": 30
+  }
+]

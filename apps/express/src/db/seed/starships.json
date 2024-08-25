@@ -1,0 +1,1229 @@
+[
+  {
+    "name": "Sentinel-class landing craft",
+    "model": "Sentinel-class landing craft",
+    "manufacturer": "Sienar Fleet Systems, Cyngus Spaceworks",
+    "cost_in_credits": "240000",
+    "length": "38",
+    "max_atmosphering_speed": "1000",
+    "crew": "5",
+    "passengers": "75",
+    "cargo_capacity": "180000",
+    "consumables": "1 month",
+    "hyperdrive_rating": "1.0",
+    "MGLT": "70",
+    "starship_class": "landing craft",
+    "pilots": [],
+    "films": [
+      {
+        "key": "1",
+        "title": "A New Hope",
+        "episode_id": 4
+      }
+    ],
+    "created": "2014-12-10T15:48:00.586000Z",
+    "edited": "2014-12-22T17:35:44.431407Z",
+    "key": "5"
+  },
+  {
+    "name": "Death Star",
+    "model": "DS-1 Orbital Battle Station",
+    "manufacturer": "Imperial Department of Military Research, Sienar Fleet Systems",
+    "cost_in_credits": "1000000000000",
+    "length": "120000",
+    "max_atmosphering_speed": "n/a",
+    "crew": "342953",
+    "passengers": "843342",
+    "cargo_capacity": "1000000000000",
+    "consumables": "3 years",
+    "hyperdrive_rating": "4.0",
+    "MGLT": "10",
+    "starship_class": "Deep Space Mobile Battlestation",
+    "pilots": [],
+    "films": [
+      {
+        "key": "1",
+        "title": "A New Hope",
+        "episode_id": 4
+      }
+    ],
+    "created": "2014-12-10T16:36:50.509000Z",
+    "edited": "2014-12-22T17:35:44.452589Z",
+    "desc": [
+      "A number of fictional mobile space stations and galactic superweapons called Death Star featured in the Star Wars science-fiction franchise. The first Death Star was stated to be more than 100 km to 160 km in diameter, depending on source. It was crewed by an estimated 1.7 million military personnel and 400,000 droids.[1][2] Its superweapon delivered enough energies on a scale equivalent to all the energy released by the Sun in an entire week.[citation needed] The second Death Star was significantly larger, between 200 km to 400 km in diameter depending on source, and technologically more advanced than its predecessor. Both versions of these dwarf planet-sized fortresses were designed for massive power projection capabilities, capable of destroying an entire planet with one blast from their superlasers.[3]"
+    ],
+    "key": "9"
+  },
+  {
+    "name": "Millennium Falcon",
+    "model": "YT-1300 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "cost_in_credits": "100000",
+    "length": "34.37",
+    "max_atmosphering_speed": "1050",
+    "crew": "4",
+    "passengers": "6",
+    "cargo_capacity": "100000",
+    "consumables": "2 months",
+    "hyperdrive_rating": "0.5",
+    "MGLT": "75",
+    "starship_class": "Light freighter",
+    "pilots": [
+      {
+        "key": "13",
+        "name": "Chewbacca"
+      },
+      {
+        "key": "14",
+        "name": "Han Solo"
+      },
+      {
+        "key": "25",
+        "name": "Lando Calrissian"
+      },
+      {
+        "key": "31",
+        "name": "Nien Nunb"
+      }
+    ],
+    "films": [
+      {
+        "key": "7",
+        "title": "The Force Awakens",
+        "episode_id": 7
+      },
+      {
+        "key": "3",
+        "title": "Return of the Jedi",
+        "episode_id": 6
+      },
+      {
+        "key": "2",
+        "title": "The Empire Strikes Back",
+        "episode_id": 5
+      },
+      {
+        "key": "1",
+        "title": "A New Hope",
+        "episode_id": 4
+      }
+    ],
+    "created": "2014-12-10T16:59:45.094000Z",
+    "edited": "2014-12-22T17:35:44.464156Z",
+    "desc": [
+      "The Millennium Falcon is a spaceship in the Star Wars universe commanded at one time by Corellian smuggler Han Solo (Harrison Ford) and his Wookiee first mate, Chewbacca (Peter Mayhew). The highly modified Corellian Engineering Corporation (CEC) YT-1300 light freighter first appears in Star Wars (1977), and subsequently in The Empire Strikes Back (1980), Return of the Jedi (1983) and The Force Awakens (2015). The ship also makes a brief cameo appearance in Revenge of the Sith (2005). Additionally, the Falcon appears in a variety of Star Wars expanded universe materials, including books, comics, and games; James Luceno's novel Millennium Falcon focuses on the titular ship.[2] It also appears in the 2014 animated film The Lego Movie in Lego form, with Billy Dee Williams and Anthony Daniels reprising their roles of Lando Calrissian and C-3PO, with Keith Ferguson voicing Han Solo."
+    ],
+    "key": "10"
+  },
+  {
+    "name": "Y-wing",
+    "model": "BTL Y-wing",
+    "manufacturer": "Koensayr Manufacturing",
+    "cost_in_credits": "134999",
+    "length": "14",
+    "max_atmosphering_speed": "1000km",
+    "crew": "2",
+    "passengers": "0",
+    "cargo_capacity": "110",
+    "consumables": "1 week",
+    "hyperdrive_rating": "1.0",
+    "MGLT": "80",
+    "starship_class": "assault starfighter",
+    "pilots": [],
+    "films": [
+      {
+        "key": "3",
+        "title": "Return of the Jedi",
+        "episode_id": 6
+      },
+      {
+        "key": "2",
+        "title": "The Empire Strikes Back",
+        "episode_id": 5
+      },
+      {
+        "key": "1",
+        "title": "A New Hope",
+        "episode_id": 4
+      }
+    ],
+    "created": "2014-12-12T11:00:39.817000Z",
+    "edited": "2014-12-22T17:35:44.479706Z",
+    "desc": [
+      "The Y-wing is a fictional Galactic Republic, Rebel Alliance and New Republic starfighter in the Star Wars franchise. They appear in Star Wars Episode IV: A New Hope, Star Wars Episode V: The Empire Strikes Back, Star Wars Episode VI: Return of the Jedi, Rogue One, Clone Wars TV series, Star Wars Rebels TV series and the Star Wars expanded universe's books, comics, and games."
+    ],
+    "key": "11"
+  },
+  {
+    "name": "X-wing",
+    "model": "T-65 X-wing",
+    "manufacturer": "Incom Corporation",
+    "cost_in_credits": "149999",
+    "length": "12.5",
+    "max_atmosphering_speed": "1050",
+    "crew": "1",
+    "passengers": "0",
+    "cargo_capacity": "110",
+    "consumables": "1 week",
+    "hyperdrive_rating": "1.0",
+    "MGLT": "100",
+    "starship_class": "Starfighter",
+    "pilots": [
+      {
+        "key": "1",
+        "name": "Luke Skywalker"
+      },
+      {
+        "key": "9",
+        "name": "Biggs Darklighter"
+      },
+      {
+        "key": "18",
+        "name": "Wedge Antilles"
+      },
+      {
+        "key": "19",
+        "name": "Jek Tono Porkins"
+      }
+    ],
+    "films": [
+      {
+        "key": "3",
+        "title": "Return of the Jedi",
+        "episode_id": 6
+      },
+      {
+        "key": "2",
+        "title": "The Empire Strikes Back",
+        "episode_id": 5
+      },
+      {
+        "key": "1",
+        "title": "A New Hope",
+        "episode_id": 4
+      }
+    ],
+    "created": "2014-12-12T11:19:05.340000Z",
+    "edited": "2014-12-22T17:35:44.491233Z",
+    "desc": [
+      "The X-wing starfighter is a fictional starfighter from the original and sequel Star Wars trilogies and the Star Wars expanded universe. They are depicted as the primary interceptor and dogfighter of the Rebel Alliance, the New Republic and the Resistance. The craft has been merchandised as a variety of toys, models licensed for use in games, novels and comics."
+    ],
+    "key": "12"
+  },
+  {
+    "name": "TIE Advanced x1",
+    "model": "Twin Ion Engine Advanced x1",
+    "manufacturer": "Sienar Fleet Systems",
+    "cost_in_credits": "unknown",
+    "length": "9.2",
+    "max_atmosphering_speed": "1200",
+    "crew": "1",
+    "passengers": "0",
+    "cargo_capacity": "150",
+    "consumables": "5 days",
+    "hyperdrive_rating": "1.0",
+    "MGLT": "105",
+    "starship_class": "Starfighter",
+    "pilots": [
+      {
+        "key": "4",
+        "name": "Darth Vader"
+      }
+    ],
+    "films": [
+      {
+        "key": "1",
+        "title": "A New Hope",
+        "episode_id": 4
+      }
+    ],
+    "created": "2014-12-12T11:21:32.991000Z",
+    "edited": "2014-12-22T17:35:44.549047Z",
+    "key": "13"
+  },
+  {
+    "name": "Executor",
+    "model": "Executor-class star dreadnought",
+    "manufacturer": "Kuat Drive Yards, Fondor Shipyards",
+    "cost_in_credits": "1143350000",
+    "length": "19,000",
+    "max_atmosphering_speed": "n/a",
+    "crew": "279144",
+    "passengers": "38000",
+    "cargo_capacity": "250000000",
+    "consumables": "6 years",
+    "hyperdrive_rating": "2.0",
+    "MGLT": "40",
+    "starship_class": "Star dreadnought",
+    "pilots": [],
+    "films": [
+      {
+        "key": "3",
+        "title": "Return of the Jedi",
+        "episode_id": 6
+      },
+      {
+        "key": "2",
+        "title": "The Empire Strikes Back",
+        "episode_id": 5
+      }
+    ],
+    "created": "2014-12-15T12:31:42.547000Z",
+    "edited": "2014-12-22T17:35:44.638231Z",
+    "desc": [
+      "An executor is someone who is responsible for executing, or following through on, an assigned task or duty. The feminine form, executrix, may sometimes be used. The role of an executor should not be confused with that of an executioner, a person who carries out a death sentence ordered by the state or other legal authority."
+    ],
+    "key": "15"
+  },
+  {
+    "name": "Slave 1",
+    "model": "Firespray-31-class patrol and attack",
+    "manufacturer": "Kuat Systems Engineering",
+    "cost_in_credits": "unknown",
+    "length": "21.5",
+    "max_atmosphering_speed": "1000",
+    "crew": "1",
+    "passengers": "6",
+    "cargo_capacity": "70000",
+    "consumables": "1 month",
+    "hyperdrive_rating": "3.0",
+    "MGLT": "70",
+    "starship_class": "Patrol craft",
+    "pilots": [
+      {
+        "key": "22",
+        "name": "Boba Fett"
+      }
+    ],
+    "films": [
+      {
+        "key": "5",
+        "title": "Attack of the Clones",
+        "episode_id": 2
+      },
+      {
+        "key": "2",
+        "title": "The Empire Strikes Back",
+        "episode_id": 5
+      }
+    ],
+    "created": "2014-12-15T13:00:56.332000Z",
+    "edited": "2014-12-22T17:35:44.716273Z",
+    "key": "21"
+  },
+  {
+    "name": "Imperial shuttle",
+    "model": "Lambda-class T-4a shuttle",
+    "manufacturer": "Sienar Fleet Systems",
+    "cost_in_credits": "240000",
+    "length": "20",
+    "max_atmosphering_speed": "850",
+    "crew": "6",
+    "passengers": "20",
+    "cargo_capacity": "80000",
+    "consumables": "2 months",
+    "hyperdrive_rating": "1.0",
+    "MGLT": "50",
+    "starship_class": "Armed government transport",
+    "pilots": [
+      {
+        "key": "1",
+        "name": "Luke Skywalker"
+      },
+      {
+        "key": "13",
+        "name": "Chewbacca"
+      },
+      {
+        "key": "14",
+        "name": "Han Solo"
+      }
+    ],
+    "films": [
+      {
+        "key": "3",
+        "title": "Return of the Jedi",
+        "episode_id": 6
+      },
+      {
+        "key": "2",
+        "title": "The Empire Strikes Back",
+        "episode_id": 5
+      }
+    ],
+    "created": "2014-12-15T13:04:47.235000Z",
+    "edited": "2014-12-22T17:35:44.795405Z",
+    "key": "22"
+  },
+  {
+    "name": "EF76 Nebulon-B escort frigate",
+    "model": "EF76 Nebulon-B escort frigate",
+    "manufacturer": "Kuat Drive Yards",
+    "cost_in_credits": "8500000",
+    "length": "300",
+    "max_atmosphering_speed": "800",
+    "crew": "854",
+    "passengers": "75",
+    "cargo_capacity": "6000000",
+    "consumables": "2 years",
+    "hyperdrive_rating": "2.0",
+    "MGLT": "40",
+    "starship_class": "Escort ship",
+    "pilots": [],
+    "films": [
+      {
+        "key": "3",
+        "title": "Return of the Jedi",
+        "episode_id": 6
+      },
+      {
+        "key": "2",
+        "title": "The Empire Strikes Back",
+        "episode_id": 5
+      }
+    ],
+    "created": "2014-12-15T13:06:30.813000Z",
+    "edited": "2014-12-22T17:35:44.848329Z",
+    "key": "23"
+  },
+  {
+    "name": "Calamari Cruiser",
+    "model": "MC80 Liberty type Star Cruiser",
+    "manufacturer": "Mon Calamari shipyards",
+    "cost_in_credits": "104000000",
+    "length": "1200",
+    "max_atmosphering_speed": "n/a",
+    "crew": "5400",
+    "passengers": "1200",
+    "cargo_capacity": "unknown",
+    "consumables": "2 years",
+    "hyperdrive_rating": "1.0",
+    "MGLT": "60",
+    "starship_class": "Star Cruiser",
+    "pilots": [],
+    "films": [
+      {
+        "key": "3",
+        "title": "Return of the Jedi",
+        "episode_id": 6
+      }
+    ],
+    "created": "2014-12-18T10:54:57.804000Z",
+    "edited": "2014-12-22T17:35:44.957852Z",
+    "key": "27"
+  },
+  {
+    "name": "A-wing",
+    "model": "RZ-1 A-wing Interceptor",
+    "manufacturer": "Alliance Underground Engineering, Incom Corporation",
+    "cost_in_credits": "175000",
+    "length": "9.6",
+    "max_atmosphering_speed": "1300",
+    "crew": "1",
+    "passengers": "0",
+    "cargo_capacity": "40",
+    "consumables": "1 week",
+    "hyperdrive_rating": "1.0",
+    "MGLT": "120",
+    "starship_class": "Starfighter",
+    "pilots": [
+      {
+        "key": "29",
+        "name": "Arvel Crynyd"
+      }
+    ],
+    "films": [
+      {
+        "key": "3",
+        "title": "Return of the Jedi",
+        "episode_id": 6
+      }
+    ],
+    "created": "2014-12-18T11:16:34.542000Z",
+    "edited": "2014-12-22T17:35:44.978754Z",
+    "desc": [
+      "A-wings are fictional starfighters in the Star Wars franchise. They first appear in Return of the Jedi (1983) and later in numerous Star Wars materials and productions. It gained popularity through its depiction in several video games, and since 1985 the A-wing has been merchandised by several companies."
+    ],
+    "key": "28"
+  },
+  {
+    "name": "B-wing",
+    "model": "A/SF-01 B-wing starfighter",
+    "manufacturer": "Slayn & Korpil",
+    "cost_in_credits": "220000",
+    "length": "16.9",
+    "max_atmosphering_speed": "950",
+    "crew": "1",
+    "passengers": "0",
+    "cargo_capacity": "45",
+    "consumables": "1 week",
+    "hyperdrive_rating": "2.0",
+    "MGLT": "91",
+    "starship_class": "Assault Starfighter",
+    "pilots": [],
+    "films": [
+      {
+        "key": "3",
+        "title": "Return of the Jedi",
+        "episode_id": 6
+      }
+    ],
+    "created": "2014-12-18T11:18:04.763000Z",
+    "edited": "2014-12-22T17:35:45.011193Z",
+    "key": "29"
+  },
+  {
+    "name": "Republic Cruiser",
+    "model": "Consular-class cruiser",
+    "manufacturer": "Corellian Engineering Corporation",
+    "cost_in_credits": "unknown",
+    "length": "115",
+    "max_atmosphering_speed": "900",
+    "crew": "9",
+    "passengers": "16",
+    "cargo_capacity": "unknown",
+    "consumables": "unknown",
+    "hyperdrive_rating": "2.0",
+    "MGLT": "unknown",
+    "starship_class": "Space cruiser",
+    "pilots": [],
+    "films": [
+      {
+        "key": "4",
+        "title": "The Phantom Menace",
+        "episode_id": 1
+      }
+    ],
+    "created": "2014-12-19T17:01:31.488000Z",
+    "edited": "2014-12-22T17:35:45.027308Z",
+    "key": "31"
+  },
+  {
+    "name": "Naboo fighter",
+    "model": "N-1 starfighter",
+    "manufacturer": "Theed Palace Space Vessel Engineering Corps",
+    "cost_in_credits": "200000",
+    "length": "11",
+    "max_atmosphering_speed": "1100",
+    "crew": "1",
+    "passengers": "0",
+    "cargo_capacity": "65",
+    "consumables": "7 days",
+    "hyperdrive_rating": "1.0",
+    "MGLT": "unknown",
+    "starship_class": "Starfighter",
+    "pilots": [
+      {
+        "key": "11",
+        "name": "Anakin Skywalker"
+      },
+      {
+        "key": "60",
+        "name": "Gregar Typho"
+      },
+      {
+        "key": "35",
+        "name": "Padmé Amidala"
+      }
+    ],
+    "films": [
+      {
+        "key": "5",
+        "title": "Attack of the Clones",
+        "episode_id": 2
+      },
+      {
+        "key": "4",
+        "title": "The Phantom Menace",
+        "episode_id": 1
+      }
+    ],
+    "created": "2014-12-19T17:39:17.582000Z",
+    "edited": "2014-12-22T17:35:45.079452Z",
+    "key": "39"
+  },
+  {
+    "name": "Naboo Royal Starship",
+    "model": "J-type 327 Nubian royal starship",
+    "manufacturer": "Theed Palace Space Vessel Engineering Corps, Nubia Star Drives",
+    "cost_in_credits": "unknown",
+    "length": "76",
+    "max_atmosphering_speed": "920",
+    "crew": "8",
+    "passengers": "unknown",
+    "cargo_capacity": "unknown",
+    "consumables": "unknown",
+    "hyperdrive_rating": "1.8",
+    "MGLT": "unknown",
+    "starship_class": "yacht",
+    "pilots": [
+      {
+        "key": "39",
+        "name": "Ric Olié"
+      }
+    ],
+    "films": [
+      {
+        "key": "4",
+        "title": "The Phantom Menace",
+        "episode_id": 1
+      }
+    ],
+    "created": "2014-12-19T17:45:03.506000Z",
+    "edited": "2014-12-22T17:35:45.091925Z",
+    "key": "40"
+  },
+  {
+    "name": "Scimitar",
+    "model": "Star Courier",
+    "manufacturer": "Republic Sienar Systems",
+    "cost_in_credits": "55000000",
+    "length": "26.5",
+    "max_atmosphering_speed": "1180",
+    "crew": "1",
+    "passengers": "6",
+    "cargo_capacity": "2500000",
+    "consumables": "30 days",
+    "hyperdrive_rating": "1.5",
+    "MGLT": "unknown",
+    "starship_class": "Space Transport",
+    "pilots": [
+      {
+        "key": "44",
+        "name": "Darth Maul"
+      }
+    ],
+    "films": [
+      {
+        "key": "4",
+        "title": "The Phantom Menace",
+        "episode_id": 1
+      }
+    ],
+    "created": "2014-12-20T09:39:56.116000Z",
+    "edited": "2014-12-22T17:35:45.105522Z",
+    "key": "41"
+  },
+  {
+    "name": "J-type diplomatic barge",
+    "model": "J-type diplomatic barge",
+    "manufacturer": "Theed Palace Space Vessel Engineering Corps, Nubia Star Drives",
+    "cost_in_credits": "2000000",
+    "length": "39",
+    "max_atmosphering_speed": "2000",
+    "crew": "5",
+    "passengers": "10",
+    "cargo_capacity": "unknown",
+    "consumables": "1 year",
+    "hyperdrive_rating": "0.7",
+    "MGLT": "unknown",
+    "starship_class": "Diplomatic barge",
+    "pilots": [],
+    "films": [
+      {
+        "key": "5",
+        "title": "Attack of the Clones",
+        "episode_id": 2
+      }
+    ],
+    "created": "2014-12-20T11:05:51.237000Z",
+    "edited": "2014-12-22T17:35:45.124386Z",
+    "key": "43"
+  },
+  {
+    "name": "AA-9 Coruscant freighter",
+    "model": "Botajef AA-9 Freighter-Liner",
+    "manufacturer": "Botajef Shipyards",
+    "cost_in_credits": "unknown",
+    "length": "390",
+    "max_atmosphering_speed": "unknown",
+    "crew": "unknown",
+    "passengers": "30000",
+    "cargo_capacity": "unknown",
+    "consumables": "unknown",
+    "hyperdrive_rating": "unknown",
+    "MGLT": "unknown",
+    "starship_class": "freighter",
+    "pilots": [],
+    "films": [
+      {
+        "key": "5",
+        "title": "Attack of the Clones",
+        "episode_id": 2
+      }
+    ],
+    "created": "2014-12-20T17:24:23.509000Z",
+    "edited": "2014-12-22T17:35:45.135987Z",
+    "key": "47"
+  },
+  {
+    "name": "Jedi starfighter",
+    "model": "Delta-7 Aethersprite-class interceptor",
+    "manufacturer": "Kuat Systems Engineering",
+    "cost_in_credits": "180000",
+    "length": "8",
+    "max_atmosphering_speed": "1150",
+    "crew": "1",
+    "passengers": "0",
+    "cargo_capacity": "60",
+    "consumables": "7 days",
+    "hyperdrive_rating": "1.0",
+    "MGLT": "unknown",
+    "starship_class": "Starfighter",
+    "pilots": [
+      {
+        "key": "10",
+        "name": "Obi-Wan Kenobi"
+      },
+      {
+        "key": "58",
+        "name": "Plo Koon"
+      }
+    ],
+    "films": [
+      {
+        "key": "5",
+        "title": "Attack of the Clones",
+        "episode_id": 2
+      },
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      }
+    ],
+    "created": "2014-12-20T17:35:23.906000Z",
+    "edited": "2014-12-22T17:35:45.147746Z",
+    "key": "48"
+  },
+  {
+    "name": "H-type Nubian yacht",
+    "model": "H-type Nubian yacht",
+    "manufacturer": "Theed Palace Space Vessel Engineering Corps",
+    "cost_in_credits": "unknown",
+    "length": "47.9",
+    "max_atmosphering_speed": "8000",
+    "crew": "4",
+    "passengers": "unknown",
+    "cargo_capacity": "unknown",
+    "consumables": "unknown",
+    "hyperdrive_rating": "0.9",
+    "MGLT": "unknown",
+    "starship_class": "yacht",
+    "pilots": [
+      {
+        "key": "35",
+        "name": "Padmé Amidala"
+      }
+    ],
+    "films": [
+      {
+        "key": "5",
+        "title": "Attack of the Clones",
+        "episode_id": 2
+      }
+    ],
+    "created": "2014-12-20T17:46:46.847000Z",
+    "edited": "2014-12-22T17:35:45.158969Z",
+    "key": "49"
+  },
+  {
+    "name": "Star Destroyer",
+    "model": "Imperial I-class Star Destroyer",
+    "manufacturer": "Kuat Drive Yards",
+    "cost_in_credits": "150000000",
+    "length": "1,600",
+    "max_atmosphering_speed": "975",
+    "crew": "47060",
+    "passengers": "0",
+    "cargo_capacity": "36000000",
+    "consumables": "2 years",
+    "hyperdrive_rating": "2.0",
+    "MGLT": "60",
+    "starship_class": "Star Destroyer",
+    "pilots": [],
+    "films": [
+      {
+        "key": "3",
+        "title": "Return of the Jedi",
+        "episode_id": 6
+      },
+      {
+        "key": "2",
+        "title": "The Empire Strikes Back",
+        "episode_id": 5
+      },
+      {
+        "key": "1",
+        "title": "A New Hope",
+        "episode_id": 4
+      }
+    ],
+    "created": "2014-12-10T15:08:19.848000Z",
+    "edited": "2014-12-22T17:35:44.410941Z",
+    "desc": [
+      "Star Destroyers are capital ships in the fictional Star Wars universe. The Imperial Star Destroyer, which first appears in the first seconds of Star Wars (1977), is \"the signature vessel of the Imperial fleet\".[2] The term \"Star Destroyer\" also refers to other vessels in the franchise.",
+      "Numerous Star Destroyer models and toys have been released, and the iconic scene featuring the vessel's first appearance has been called \"a milestone in special effects history\"."
+    ],
+    "key": "3"
+  },
+  {
+    "name": "Trade Federation cruiser",
+    "model": "Providence-class carrier/destroyer",
+    "manufacturer": "Rendili StarDrive, Free Dac Volunteers Engineering corps.",
+    "cost_in_credits": "125000000",
+    "length": "1088",
+    "max_atmosphering_speed": "1050",
+    "crew": "600",
+    "passengers": "48247",
+    "cargo_capacity": "50000000",
+    "consumables": "4 years",
+    "hyperdrive_rating": "1.5",
+    "MGLT": "unknown",
+    "starship_class": "capital ship",
+    "pilots": [
+      {
+        "key": "10",
+        "name": "Obi-Wan Kenobi"
+      },
+      {
+        "key": "11",
+        "name": "Anakin Skywalker"
+      }
+    ],
+    "films": [
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      }
+    ],
+    "created": "2014-12-20T19:40:21.902000Z",
+    "edited": "2014-12-22T17:35:45.195165Z",
+    "key": "59"
+  },
+  {
+    "name": "Theta-class T-2c shuttle",
+    "model": "Theta-class T-2c shuttle",
+    "manufacturer": "Cygnus Spaceworks",
+    "cost_in_credits": "1000000",
+    "length": "18.5",
+    "max_atmosphering_speed": "2000",
+    "crew": "5",
+    "passengers": "16",
+    "cargo_capacity": "50000",
+    "consumables": "56 days",
+    "hyperdrive_rating": "1.0",
+    "MGLT": "unknown",
+    "starship_class": "transport",
+    "pilots": [],
+    "films": [
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      }
+    ],
+    "created": "2014-12-20T19:48:40.409000Z",
+    "edited": "2014-12-22T17:35:45.208584Z",
+    "key": "61"
+  },
+  {
+    "name": "T-70 X-wing fighter",
+    "model": "T-70 X-wing fighter",
+    "manufacturer": "Incom",
+    "cost_in_credits": "unknown",
+    "length": "unknown",
+    "max_atmosphering_speed": "unknown",
+    "crew": "1",
+    "passengers": "unknown",
+    "cargo_capacity": "unknown",
+    "consumables": "unknown",
+    "hyperdrive_rating": "unknown",
+    "MGLT": "unknown",
+    "starship_class": "fighter",
+    "pilots": [
+      {
+        "key": "86",
+        "name": "Poe Dameron"
+      }
+    ],
+    "films": [
+      {
+        "key": "7",
+        "title": "The Force Awakens",
+        "episode_id": 7
+      }
+    ],
+    "created": "2015-04-17T06:58:50.614475Z",
+    "edited": "2015-04-17T06:58:50.614528Z",
+    "key": "77"
+  },
+  {
+    "name": "Rebel transport",
+    "model": "GR-75 medium transport",
+    "manufacturer": "Gallofree Yards, Inc.",
+    "cost_in_credits": "unknown",
+    "length": "90",
+    "max_atmosphering_speed": "650",
+    "crew": "6",
+    "passengers": "90",
+    "cargo_capacity": "19000000",
+    "consumables": "6 months",
+    "hyperdrive_rating": "4.0",
+    "MGLT": "20",
+    "starship_class": "Medium transport",
+    "pilots": [],
+    "films": [
+      {
+        "key": "3",
+        "title": "Return of the Jedi",
+        "episode_id": 6
+      },
+      {
+        "key": "2",
+        "title": "The Empire Strikes Back",
+        "episode_id": 5
+      }
+    ],
+    "created": "2014-12-15T12:34:52.264000Z",
+    "edited": "2014-12-22T17:35:44.680838Z",
+    "key": "17"
+  },
+  {
+    "name": "Droid control ship",
+    "model": "Lucrehulk-class Droid Control Ship",
+    "manufacturer": "Hoersch-Kessel Drive, Inc.",
+    "cost_in_credits": "unknown",
+    "length": "3170",
+    "max_atmosphering_speed": "n/a",
+    "crew": "175",
+    "passengers": "139000",
+    "cargo_capacity": "4000000000",
+    "consumables": "500 days",
+    "hyperdrive_rating": "2.0",
+    "MGLT": "unknown",
+    "starship_class": "Droid control ship",
+    "pilots": [],
+    "films": [
+      {
+        "key": "5",
+        "title": "Attack of the Clones",
+        "episode_id": 2
+      },
+      {
+        "key": "4",
+        "title": "The Phantom Menace",
+        "episode_id": 1
+      },
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      }
+    ],
+    "created": "2014-12-19T17:04:06.323000Z",
+    "edited": "2014-12-22T17:35:45.042900Z",
+    "key": "32"
+  },
+  {
+    "name": "Republic Assault ship",
+    "model": "Acclamator I-class assault ship",
+    "manufacturer": "Rothana Heavy Engineering",
+    "cost_in_credits": "unknown",
+    "length": "752",
+    "max_atmosphering_speed": "unknown",
+    "crew": "700",
+    "passengers": "16000",
+    "cargo_capacity": "11250000",
+    "consumables": "2 years",
+    "hyperdrive_rating": "0.6",
+    "MGLT": "unknown",
+    "starship_class": "assault ship",
+    "pilots": [],
+    "films": [
+      {
+        "key": "5",
+        "title": "Attack of the Clones",
+        "episode_id": 2
+      }
+    ],
+    "created": "2014-12-20T18:08:42.926000Z",
+    "edited": "2014-12-22T17:35:45.171653Z",
+    "key": "52"
+  },
+  {
+    "name": "Solar Sailer",
+    "model": "Punworcca 116-class interstellar sloop",
+    "manufacturer": "Huppla Pasa Tisc Shipwrights Collective",
+    "cost_in_credits": "35700",
+    "length": "15.2",
+    "max_atmosphering_speed": "1600",
+    "crew": "3",
+    "passengers": "11",
+    "cargo_capacity": "240",
+    "consumables": "7 days",
+    "hyperdrive_rating": "1.5",
+    "MGLT": "unknown",
+    "starship_class": "yacht",
+    "pilots": [],
+    "films": [
+      {
+        "key": "5",
+        "title": "Attack of the Clones",
+        "episode_id": 2
+      }
+    ],
+    "created": "2014-12-20T18:37:56.969000Z",
+    "edited": "2014-12-22T17:35:45.183075Z",
+    "key": "58"
+  },
+  {
+    "name": "Republic attack cruiser",
+    "model": "Senator-class Star Destroyer",
+    "manufacturer": "Kuat Drive Yards, Allanteen Six shipyards",
+    "cost_in_credits": "59000000",
+    "length": "1137",
+    "max_atmosphering_speed": "975",
+    "crew": "7400",
+    "passengers": "2000",
+    "cargo_capacity": "20000000",
+    "consumables": "2 years",
+    "hyperdrive_rating": "1.0",
+    "MGLT": "unknown",
+    "starship_class": "star destroyer",
+    "pilots": [],
+    "films": [
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      }
+    ],
+    "created": "2014-12-20T19:52:56.232000Z",
+    "edited": "2014-12-22T17:35:45.224540Z",
+    "key": "63"
+  },
+  {
+    "name": "Naboo star skiff",
+    "model": "J-type star skiff",
+    "manufacturer": "Theed Palace Space Vessel Engineering Corps/Nubia Star Drives, Incorporated",
+    "cost_in_credits": "unknown",
+    "length": "29.2",
+    "max_atmosphering_speed": "1050",
+    "crew": "3",
+    "passengers": "3",
+    "cargo_capacity": "unknown",
+    "consumables": "unknown",
+    "hyperdrive_rating": "0.5",
+    "MGLT": "unknown",
+    "starship_class": "yacht",
+    "pilots": [
+      {
+        "key": "10",
+        "name": "Obi-Wan Kenobi"
+      },
+      {
+        "key": "35",
+        "name": "Padmé Amidala"
+      }
+    ],
+    "films": [
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      }
+    ],
+    "created": "2014-12-20T19:55:15.396000Z",
+    "edited": "2014-12-22T17:35:45.258859Z",
+    "key": "64"
+  },
+  {
+    "name": "Jedi Interceptor",
+    "model": "Eta-2 Actis-class light interceptor",
+    "manufacturer": "Kuat Systems Engineering",
+    "cost_in_credits": "320000",
+    "length": "5.47",
+    "max_atmosphering_speed": "1500",
+    "crew": "1",
+    "passengers": "0",
+    "cargo_capacity": "60",
+    "consumables": "2 days",
+    "hyperdrive_rating": "1.0",
+    "MGLT": "unknown",
+    "starship_class": "starfighter",
+    "pilots": [
+      {
+        "key": "10",
+        "name": "Obi-Wan Kenobi"
+      },
+      {
+        "key": "11",
+        "name": "Anakin Skywalker"
+      }
+    ],
+    "films": [
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      }
+    ],
+    "created": "2014-12-20T19:56:57.468000Z",
+    "edited": "2014-12-22T17:35:45.272349Z",
+    "key": "65"
+  },
+  {
+    "name": "arc-170",
+    "model": "Aggressive Reconnaissance-170 starfighte",
+    "manufacturer": "Incom Corporation, Subpro Corporation",
+    "cost_in_credits": "155000",
+    "length": "14.5",
+    "max_atmosphering_speed": "1000",
+    "crew": "3",
+    "passengers": "0",
+    "cargo_capacity": "110",
+    "consumables": "5 days",
+    "hyperdrive_rating": "1.0",
+    "MGLT": "100",
+    "starship_class": "starfighter",
+    "pilots": [],
+    "films": [
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      }
+    ],
+    "created": "2014-12-20T20:03:48.603000Z",
+    "edited": "2014-12-22T17:35:45.287214Z",
+    "key": "66"
+  },
+  {
+    "name": "Banking clan frigte",
+    "model": "Munificent-class star frigate",
+    "manufacturer": "Hoersch-Kessel Drive, Inc, Gwori Revolutionary Industries",
+    "cost_in_credits": "57000000",
+    "length": "825",
+    "max_atmosphering_speed": "unknown",
+    "crew": "200",
+    "passengers": "unknown",
+    "cargo_capacity": "40000000",
+    "consumables": "2 years",
+    "hyperdrive_rating": "1.0",
+    "MGLT": "unknown",
+    "starship_class": "cruiser",
+    "pilots": [],
+    "films": [
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      }
+    ],
+    "created": "2014-12-20T20:07:11.538000Z",
+    "edited": "2014-12-22T17:35:45.361585Z",
+    "key": "68"
+  },
+  {
+    "name": "Belbullab-22 starfighter",
+    "model": "Belbullab-22 starfighter",
+    "manufacturer": "Feethan Ottraw Scalable Assemblies",
+    "cost_in_credits": "168000",
+    "length": "6.71",
+    "max_atmosphering_speed": "1100",
+    "crew": "1",
+    "passengers": "0",
+    "cargo_capacity": "140",
+    "consumables": "7 days",
+    "hyperdrive_rating": "6",
+    "MGLT": "unknown",
+    "starship_class": "starfighter",
+    "pilots": [
+      {
+        "key": "10",
+        "name": "Obi-Wan Kenobi"
+      },
+      {
+        "key": "79",
+        "name": "Grievous"
+      }
+    ],
+    "films": [
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      }
+    ],
+    "created": "2014-12-20T20:38:05.031000Z",
+    "edited": "2014-12-22T17:35:45.381900Z",
+    "key": "74"
+  },
+  {
+    "name": "V-wing",
+    "model": "Alpha-3 Nimbus-class V-wing starfighter",
+    "manufacturer": "Kuat Systems Engineering",
+    "cost_in_credits": "102500",
+    "length": "7.9",
+    "max_atmosphering_speed": "1050",
+    "crew": "1",
+    "passengers": "0",
+    "cargo_capacity": "60",
+    "consumables": "15 hours",
+    "hyperdrive_rating": "1.0",
+    "MGLT": "unknown",
+    "starship_class": "starfighter",
+    "pilots": [],
+    "films": [
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      }
+    ],
+    "created": "2014-12-20T20:43:04.349000Z",
+    "edited": "2014-12-22T17:35:45.396711Z",
+    "desc": [
+      "There have been several vehicles in the Star Wars Universe designated V-wing:"
+    ],
+    "key": "75"
+  },
+  {
+    "name": "CR90 corvette",
+    "model": "CR90 corvette",
+    "manufacturer": "Corellian Engineering Corporation",
+    "cost_in_credits": "3500000",
+    "length": "150",
+    "max_atmosphering_speed": "950",
+    "crew": "165",
+    "passengers": "600",
+    "cargo_capacity": "3000000",
+    "consumables": "1 year",
+    "hyperdrive_rating": "2.0",
+    "MGLT": "60",
+    "starship_class": "corvette",
+    "pilots": [],
+    "films": [
+      {
+        "key": "6",
+        "title": "Revenge of the Sith",
+        "episode_id": 3
+      },
+      {
+        "key": "3",
+        "title": "Return of the Jedi",
+        "episode_id": 6
+      },
+      {
+        "key": "1",
+        "title": "A New Hope",
+        "episode_id": 4
+      }
+    ],
+    "created": "2014-12-10T14:20:33.369000Z",
+    "edited": "2014-12-22T17:35:45.408368Z",
+    "key": "2"
+  }
+]

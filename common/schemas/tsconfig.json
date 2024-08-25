@@ -1,0 +1,4 @@
+{
+    "extends": "@repo/configs/ts.base.json",
+    "exclude": ["src/esbuild"]
+}

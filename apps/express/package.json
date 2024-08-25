@@ -1,0 +1,45 @@
+{
+    "name": "express",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "test": "mocha --config test/unit.config.js",
+        "test:i": "mocha --config test/integration.config.js",
+        "test:a": "mocha",
+        "lint": "eslint . --fix",
+        "format": "prettier --write .",
+        "dev": "tsx watch ./src/index.ts",
+        "seed": "tsx ./src/db/seed.ts"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@asteasolutions/zod-to-openapi": "^7.1.1",
+        "dotenv": "^16.4.5",
+        "express": "^4.19.2",
+        "mongodb": "^6.8.0",
+        "qs": "^6.13.0",
+        "zod": "^3.23.8"
+    },
+    "devDependencies": {
+        "@repo/configs": "workspace:*",
+        "@repo/schemas": "workspace:*",
+        "@types/chai": "^4.3.17",
+        "@types/express": "^4.17.21",
+        "@types/mocha": "^10.0.7",
+        "@types/node": "^22.5.0",
+        "@types/qs": "^6.9.15",
+        "@types/sinon": "^17.0.3",
+        "@types/sinon-chai": "^3.2.12",
+        "@types/supertest": "^6.0.2",
+        "@types/swagger-ui-express": "^4.1.6",
+        "chai": "^5.1.1",
+        "mocha": "^10.7.3",
+        "mongodb-memory-server": "^10.0.0",
+        "sinon": "^18.0.0",
+        "sinon-chai": "^4.0.0",
+        "supertest": "^7.0.0",
+        "tsx": "^4.17.0"
+    }
+}

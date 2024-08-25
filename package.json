@@ -1,0 +1,21 @@
+{
+  "name": "sw-sv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "express": "cd apps/express && pnpm dev",
+    "express:u": "cd apps/express && pnpm test",
+    "express:i": "cd apps/express && pnpm test:i",
+    "express:seed": "cd apps/express && pnpm seed",
+    "mongodb": "docker-compose -f ./docker/compose.yaml up -d"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.9.0",
+    "prettier": "^3.3.3",
+    "typescript": "^5.5.4"
+  }
+}
