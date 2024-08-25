@@ -1,6 +1,5 @@
 import { Request, Response } from "express";
 import { PeopleRepository } from "./people.repo";
-import { ErrMsgs } from "../../errors/ErrMsgs";
 import {
     DeletePersonRequest,
     getPeopleListResponseSchema,
@@ -10,6 +9,7 @@ import {
     peopleSchema,
 } from "@repo/schemas";
 import { ParsedRequest } from "../../abstract/ParsedRequest";
+import { errorHandler } from "../../errors/errorHandler";
 
 export class PeopleController {
     constructor(private readonly repo: PeopleRepository) {}
@@ -22,8 +22,7 @@ export class PeopleController {
             }
             res.send(getPeopleListResponseSchema.parse(people));
         } catch (err) {
-            console.error(err);
-            res.status(500).send({ msg: ErrMsgs.INTERNAL_ERROR });
+            errorHandler(err, res);
         }
     };
     createPerson = async (req: Request, res: Response) => {
@@ -35,8 +34,7 @@ export class PeopleController {
             }
             res.status(201).send({ msg: "person created" });
         } catch (err) {
-            console.error(err);
-            res.status(500).send({ msg: ErrMsgs.INTERNAL_ERROR });
+            errorHandler(err, res);
         }
     };
     getPerson = async (req: ParsedRequest<GetPersonRequest>, res: Response) => {
@@ -47,8 +45,7 @@ export class PeopleController {
             const result = peopleSchema.partial().parse(people);
             res.send(result);
         } catch (err) {
-            console.error(err);
-            res.status(500).send({ msg: ErrMsgs.INTERNAL_ERROR });
+            errorHandler(err, res);
         }
     };
     putPerson = async (req: ParsedRequest<PatchPersonRequest>, res: Response) => {
@@ -58,8 +55,7 @@ export class PeopleController {
             const result = await this.repo.updatePerson(key, person);
             res.send(peopleSchema.parse(result));
         } catch (err) {
-            console.error(err);
-            res.status(500).send({ msg: ErrMsgs.INTERNAL_ERROR });
+            errorHandler(err, res);
         }
     };
     deletePerson = async (req: ParsedRequest<DeletePersonRequest>, res: Response) => {
@@ -71,8 +67,7 @@ export class PeopleController {
             }
             res.send({ msg: "DELETED" });
         } catch (err) {
-            console.error(err);
-            res.status(500).send({ msg: ErrMsgs.INTERNAL_ERROR });
+            errorHandler(err, res);
         }
     };
 }
